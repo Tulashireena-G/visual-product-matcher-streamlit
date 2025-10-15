@@ -22,11 +22,18 @@ Simple and interactive Streamlit interface
 =>Technologies Used
 
 Python
+
 Streamlit
+
 TensorFlow / Keras
+
 scikit-learn
+
 NumPy, Pandas, PIL
 
 => How to Run
+
 pip install -r requirements.txt
+
 streamlit run app.py
+
