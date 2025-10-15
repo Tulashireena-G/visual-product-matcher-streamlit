@@ -1,0 +1,51 @@
+id,name,category,image_path
+1,white airpod,airpods,1.jpeg
+2,blue airpod,airpods,2.jpg
+3,airpod,airpods,3.jpeg
+4,airpod set,airpods,4.jpeg
+5,airpods set,airpods,5.jpeg
+6,red backpack,bags,6.webp
+7,blue backpack,bags,7.webp
+8,black backpack,bags,8.jpeg
+9,blue dress,dresses,9.jpg
+10,white dress,dresses,10.jpeg
+11,red dress,dresses,11.jpeg
+12,maroon dress,dresses,12.jpeg
+13,maroon handbag,handbags,13.jpeg
+14,blue heel,heels,14.png
+15,white heel,heels,15.jpeg
+16,gray laptop,laptops,16.jpeg
+17,silver laptop,laptops,17.jpeg
+18,black laptop,laptops,18.jpeg
+19,gaming laptop,laptops,19.jpeg
+20,office laptop,laptops,20.jpeg
+21,classic laptop,laptops,21.jpeg
+22,pink heel,heels,22.jpeg
+23,black handbag,handbags,23.jpeg
+24,black heel,heels,24.jpeg
+25,classic heel,heels,25.jpeg
+26,pink handbag,handbags,26.jpeg
+27,blue handbag,handbags,27.jpeg
+28,brown handbag,handbags,28.jpeg
+29,classic black handbag,handbags,29.jpeg
+30,green handbag,handbags,30.jpeg
+31,frock,dresses,31.jpeg
+32,black frock,dresses,32.jpeg
+33,blue shoe,shoes,33.jpeg
+34,blue sneakers,shoes,34.jpeg
+35,brown shoe,shoes,35.jpg
+36,hand watch,watches,36.jpg
+37,black shoe,shoes,37.jpeg
+38,red heel,heels,38.png
+39,smart watch,watches,39.jpg
+40,black and grey suit,suits,40.jpeg
+41,blue suit,suits,41.jpeg
+42,black suit,suits,42.webp
+43,silver watch,watches,43.jpeg
+44,blue watch,watches,44.jpg
+45,black watch,watches,45.jpeg
+46,classic watch,watches,46.jpeg
+47,black headphone,headphones,47.jpeg
+48,white headphone,headphones,48.jpeg
+49,red heel,heels,49.jpg
+50,white sneakers,shoes,50.jpeg
