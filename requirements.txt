@@ -1,17 +1,8 @@
-# Streamlit for UI
 streamlit==1.37.0
-
-# TensorFlow CPU version compatible with Python 3.13
 tensorflow-cpu==2.20.0
-
-# Numpy version compatible with TensorFlow 2.20.0
-numpy>=1.26.0,<1.27
-
-# Rich is required by Streamlit
-rich>=10.14.0,<14
-
-# Additional dependencies for Markdown and highlighting
+numpy>=2.1.0,<2.4
+Pillow==10.4.0
+rich>=10.14.0,<15
 markdown-it-py==4.0.0
 mdurl==0.1.2
 pygments==2.19.2
-Pillow==10.4.0
